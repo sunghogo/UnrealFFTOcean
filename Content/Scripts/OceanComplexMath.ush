@@ -1,4 +1,4 @@
-// Update this script's absolute path in Niagara Script Custom HLSL Node
+// Update this script's absolute path in Niagara Script Custom HLSL Node (FX_OceanWater_TimeStep)
 
 // Perform multiplication of two complex numbers
 float2 jMul(float2 c0,float2 c1)
